@@ -3,5 +3,4 @@ __pycache__/
 .DS_Store
 .vscode/
 /venv
-# If you have a file with passwords, ignore it:
 config.py 
